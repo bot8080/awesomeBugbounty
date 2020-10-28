@@ -1,24 +1,24 @@
-![Awesome Bugbounty Writeups](https://raw.githubusercontent.com/devanshbatham/Awesome-Bugbounty-Writeups/master/static/logo.PNG)
-
+![Awesome Bugbounty Writeups](https://raw.githubusercontent.com/bot9496/awesomeBugbounty/master/static/logo.PNG)
+ 
 ## Contents 
 
- - [Cross Site Scripting (XSS)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-scripting-xss)
- - [Cross Site Request Forgery (CSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cross-site-request-forgery-csrf)
- - [Clickjacking (UI Redressing Attack)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#clickjacking-ui-redressing-attack)
- - [Local File Inclusion (LFI)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#local-file-inclusion-lfi)
- - [Subdomain Takeover](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#subdomain-takeover)
- - [Denial of Service (DOS)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#denial-of-service-dos)
- - [Authentication Bypass](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#authentication-bypass)
- - [SQL injection](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#sql-injectionsqli)
- - [Insecure Direct Object Reference (IDOR)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#insecure-direct-object-reference-idor)
- - [2FA Related issues](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#2fa-related-issues) 
- - [CORS Related issues](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#cors-related-issues)
- - [Server Side Request Forgery (SSRF)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/blob/master/README.md#server-side-request-forgery-ssrf)
- - [Race Condition](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups/blob/master/README.md#race-condition)
- - [Remote Code Execution (RCE)](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#remote-code-execution-rce)
- - [Android Pentesting](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#android-pentesting) 
- - [Contributing](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#contributing)
- - [Maintainers](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups#maintainers)
+ - [Cross Site Scripting (XSS)](https://github.com/bot9496/awesomeBugbounty#cross-site-scripting-xss)
+ - [Cross Site Request Forgery (CSRF)](https://github.com/bot9496/awesomeBugbounty#cross-site-request-forgery-csrf)
+ - [Clickjacking (UI Redressing Attack)](https://github.com/bot9496/awesomeBugbounty#clickjacking-ui-redressing-attack)
+ - [Local File Inclusion (LFI)](https://github.com/bot9496/awesomeBugbounty#local-file-inclusion-lfi)
+ - [Subdomain Takeover](https://github.com/bot9496/awesomeBugbounty#subdomain-takeover)
+ - [Denial of Service (DOS)](https://github.com/bot9496/awesomeBugbounty#denial-of-service-dos)
+ - [Authentication Bypass](https://github.com/bot9496/awesomeBugbounty#authentication-bypass)
+ - [SQL injection](https://github.com/bot9496/awesomeBugbounty#sql-injectionsqli)
+ - [Insecure Direct Object Reference (IDOR)](https://github.com/bot9496/awesomeBugbounty#insecure-direct-object-reference-idor)
+ - [2FA Related issues](https://github.com/bot9496/awesomeBugbounty#2fa-related-issues) 
+ - [CORS Related issues](https://github.com/bot9496/awesomeBugbounty#cors-related-issues)
+ - [Server Side Request Forgery (SSRF)](https://github.com/bot9496/awesomeBugbounty/blob/master/README.md#server-side-request-forgery-ssrf)
+ - [Race Condition](https://github.com/bot9496/awesomeBugbounty/blob/master/README.md#race-condition)
+ - [Remote Code Execution (RCE)](https://github.com/bot9496/awesomeBugbounty#remote-code-execution-rce)
+ - [Android Pentesting](https://github.com/bot9496/awesomeBugbounty#android-pentesting) 
+ - [Contributing](https://github.com/bot9496/awesomeBugbounty#contributing)
+ - [Maintainers](https://github.com/bot9496/awesomeBugbounty#maintainers)
 
 
 
